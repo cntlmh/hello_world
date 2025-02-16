@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.cpp(2,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  workspace_16022025.vcxproj -> D:\IMIC\C_Study\workspace_16022025\x64\Debug\workspace_16022025.exe
