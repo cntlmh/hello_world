@@ -1,3 +1,12 @@
-﻿  main.cpp
-D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.cpp(2,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  main.c
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(29,2): warning C4013: 'system' undefined; assuming extern returning int
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(228,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(231,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(234,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(237,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(240,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(243,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(220,8): warning C4101: 'gia': unreferenced local variable
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(219,11): warning C4101: 'remain': unreferenced local variable
+D:\IMIC\C_Study\workspace_16022025\workspace_16022025\main.c(303,22): warning C4305: 'initializing': truncation from 'double' to 'float'
   workspace_16022025.vcxproj -> D:\IMIC\C_Study\workspace_16022025\x64\Debug\workspace_16022025.exe

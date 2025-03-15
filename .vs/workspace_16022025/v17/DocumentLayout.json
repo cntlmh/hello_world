@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\IMIC\\C_Study\\workspace_16022025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34784E46-160F-48E8-820A-E60F53564A72}|workspace_16022025\\workspace_16022025.vcxproj|D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{34784E46-160F-48E8-820A-E60F53564A72}|workspace_16022025\\workspace_16022025.vcxproj|solutionrelative:workspace_16022025\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{34784E46-160F-48E8-820A-E60F53564A72}|workspace_16022025\\workspace_16022025.vcxproj|D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\main_hienngu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34784E46-160F-48E8-820A-E60F53564A72}|workspace_16022025\\workspace_16022025.vcxproj|solutionrelative:workspace_16022025\\main_hienngu.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34784E46-160F-48E8-820A-E60F53564A72}|workspace_16022025\\workspace_16022025.vcxproj|D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\old.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34784E46-160F-48E8-820A-E60F53564A72}|workspace_16022025\\workspace_16022025.vcxproj|solutionrelative:workspace_16022025\\old.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +18,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\main.cpp",
-              "RelativeDocumentMoniker": "workspace_16022025\\main.cpp",
-              "ToolTip": "D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\main.cpp",
-              "RelativeToolTip": "workspace_16022025\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "Title": "main_hienngu.c",
+              "DocumentMoniker": "D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\main_hienngu.c",
+              "RelativeDocumentMoniker": "workspace_16022025\\main_hienngu.c",
+              "ToolTip": "D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\main_hienngu.c",
+              "RelativeToolTip": "workspace_16022025\\main_hienngu.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-15T21:43:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "old.c",
+              "DocumentMoniker": "D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\old.c",
+              "RelativeDocumentMoniker": "workspace_16022025\\old.c",
+              "ToolTip": "D:\\IMIC\\C_Study\\workspace_16022025\\workspace_16022025\\old.c",
+              "RelativeToolTip": "workspace_16022025\\old.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-16T04:15:37.097Z",
               "EditorCaption": ""
             }

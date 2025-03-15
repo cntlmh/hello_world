@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="old.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main_hienngu.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
